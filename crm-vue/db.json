@@ -1,0 +1,14 @@
+{
+  "clientes": [
+    {
+      "nombre": "Edith",
+      "apellido": "Campos Cruz",
+      "email": "21300175@uttt.edu.mx",
+      "telefono": "123-453-5677",
+      "empresa": "Chilchota",
+      "puesto": "CIO",
+      "estado": false,
+      "id": 2
+    }
+  ]
+}
